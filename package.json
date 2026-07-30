@@ -1,0 +1,9 @@
+{
+  "name": "hormuz-strait-tracker",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Hormuz Strait tracker project",
+  "scripts": {
+    "test": "echo \"No tests specified\""
+  }
+}
